@@ -1,9 +1,9 @@
 import { ThemingProps } from '@chakra-ui/react'
 import { mainnet, sepolia, polygon, optimism, arbitrum } from '@wagmi/chains'
 
-export const SITE_NAME = 'Nexth'
-export const SITE_DESCRIPTION = 'Next.js + Ethereum starter kit'
-export const SITE_URL = 'https://nexth.vercel.app'
+export const SITE_NAME = 'Gabozago'
+export const SITE_DESCRIPTION = 'Zero knowledge, infinite possibilities: Unlock the potential of ZK Art auctions.'
+export const SITE_URL = 'https://gabozago.vercel.app'
 
 export const THEME_INITIAL_COLOR = 'system'
 export const THEME_COLOR_SCHEME: ThemingProps['colorScheme'] = 'gray'
